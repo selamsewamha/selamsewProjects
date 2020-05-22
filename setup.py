@@ -23,7 +23,7 @@ setup(
     version='1.0.19',
     description='A simple Python project to get my IP',
     long_description=long_description,
-    url='https://github.com/abarik1981/getmyip',
+    url='https://github.com/selamsewamha/selamsewProjects',
     author='Selamsew Hilawi',
     author_email='amha.selam@amazon.com',
     license='MIT',
